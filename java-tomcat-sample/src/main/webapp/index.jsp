@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
+<h1 style="color: aqua;">Baap ko mt sikha chal</h1>
+<button style="color: blue;">Hit me</button>
 </body>
 </html>
