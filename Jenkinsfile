@@ -22,5 +22,10 @@ pipeline {
                         echo "Deploying in Production Area"
                   }
             }
+            stage('Ready To Use') {
+                  steps {
+                        echo "This is the ready war files"
+                  }
+            }
       }
 }
